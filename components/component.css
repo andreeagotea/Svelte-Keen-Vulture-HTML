@@ -1,0 +1,16 @@
+.component-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component-image {
+  width: 200px;
+  object-fit: cover;
+}
+.component-image1 {
+  width: 200px;
+  object-fit: cover;
+}

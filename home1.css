@@ -1,0 +1,38 @@
+.home1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("https://images.unsplash.com/photo-1662010021854-e67c538ea7a9?ixid=M3w5MTMyMXwxfDF8YWxsfDE2fHx8fHx8Mnx8MTY4NjE0Mjk4MHw&ixlib=rb-4.0.3&w=1500");
+}
+.home1-icon {
+  width: 24px;
+  height: 24px;
+}
+.home1-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.home1-icon4 {
+  width: 24px;
+  height: 24px;
+}
+.home1-icon6 {
+  width: 24px;
+  height: 24px;
+}
+.home1-image {
+  width: 200px;
+  object-fit: cover;
+}
+.home1-video {
+  height: 200px;
+  align-self: center;
+}
+.home1-iframe {
+  width: 401px;
+  height: 289px;
+}

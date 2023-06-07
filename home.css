@@ -1,0 +1,57 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container2 {
+  flex: 0 0 auto;
+  width: 200px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-link {
+  display: contents;
+}
+.home-text1 {
+  text-decoration: none;
+}
+.home-image {
+  width: 200px;
+  object-fit: cover;
+}
+.home-video {
+  width: 571px;
+  height: 200px;
+}
+.home-iframe {
+  width: 401px;
+  height: 289px;
+}
+.home-div1 {
+  width: 892px;
+  height: 558px;
+}
+.home-lottie-node {
+  width: 300px;
+  height: 300px;
+}
+.home-lottie-node1 {
+  width: 300px;
+  height: 300px;
+}
+.home-lottie-node2 {
+  width: 300px;
+  height: 300px;
+}
